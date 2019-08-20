@@ -8,3 +8,11 @@
 ### 7. git push -u origin master
 
 
+### 之后提交代码
+### 1. git add .
+### 2. git commit -m 'first commit'
+### 3. git push -u origin master
+
+
+
+
